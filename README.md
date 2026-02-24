@@ -1,5 +1,10 @@
+
+
+
+
 # FUTURE_ML_02
 Project repository for FUTURE INTERNS internship
+NLP support ticket classifier;Automatically assigns labels to and prioritizes customer service tickets. Following evaluation of various ML approaches, I found little predictive power in templated ticket syntax and expanded the system into a hybrid AI decision-support framework which mixes the predictions of ML with the power of business rules, mirroring common enterprise help-desk functionalities.
 
 -> Project Title
 
